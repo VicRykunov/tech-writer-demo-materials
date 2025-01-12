@@ -16,7 +16,7 @@
   
 ## Репозитории
 
-### SmartCuff (https://github.com/VicRykunov/tech-writer-demo-materials/tree/main/SmartCuff%20PDF)
+### [SmartCuff](https://github.com/VicRykunov/tech-writer-demo-materials/tree/main/SmartCuff%20PDF)
 Примеры работ в стартапе по созданию контроллера давления в манжетах эндотрахеальных и трахеостомических трубок. Репозиторий содержит: техническое задание для разработчика аппаратной и программной частей, руководство пользователя, научную статью по разрабатываемому изделию.
 
 ### Demovideos (https://github.com/VicRykunov/tech-writer-demo-materials/tree/main/demovideos)
